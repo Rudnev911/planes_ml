@@ -1,0 +1,3 @@
+Model,Accuracy (All),Accuracy (Hard Cases),Precision (Military),Recall (Military),F1-Score,Avg Latency (s)
+SmolVLM2-500M,0.967,0.95,0.938,1.0,0.968,0.8
+SmolVLM2-256M,0.8,0.85,1.0,0.6,0.75,0.76

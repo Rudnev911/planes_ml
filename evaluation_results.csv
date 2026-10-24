@@ -1,0 +1,31 @@
+filename,true_label,category,aircraft_name,id,SmolVLM2-500M_pred,SmolVLM2-500M_reason,SmolVLM2-500M_time,SmolVLM2-256M_pred,SmolVLM2-256M_reason,SmolVLM2-256M_time
+C01.jpg,civilian,basic_civilian,Airbus A320 family,C01,civilian,civilian,3.62,civilian,civilian.,0.77
+C02.jpg,civilian,basic_civilian,Boeing 737,C02,civilian,civilian,0.72,civilian,civilian.,0.68
+C03.jpg,civilian,basic_civilian,Airbus A380,C03,civilian,civilian,0.7,civilian,civilian.,0.68
+C04.jpg,civilian,basic_civilian,Boeing 747,C04,civilian,civilian,0.65,civilian,civilian.,0.67
+C05.jpg,civilian,basic_civilian,Boeing 787 Dreamliner,C05,civilian,civilian,0.69,civilian,civilian.,0.69
+C06.jpg,civilian,medium_civilian,Embraer E-Jet,C06,civilian,civilian,0.7,civilian,civilian.,0.68
+C07.jpg,civilian,medium_civilian,ATR 72,C07,civilian,civilian,0.7,civilian,civilian.,0.7
+C08.jpg,civilian,medium_civilian,Cessna 172,C08,civilian,civilian,0.69,civilian,civilian.,0.68
+C09.jpg,civilian,medium_civilian,Bombardier CRJ100/200,C09,civilian,civilian,0.7,civilian,civilian.,0.69
+C10.jpg,civilian,medium_civilian,Piper PA-28 Cherokee,C10,civilian,civilian,0.69,civilian,civilian.,0.69
+C11.jpg,civilian,hard_civilian,Gulfstream G650,C11,civilian,civilian,0.68,civilian,civilian.,0.68
+C12.jpg,civilian,hard_civilian,Dassault Falcon 7X,C12,civilian,civilian,0.7,civilian,civilian.,0.7
+C13.jpg,civilian,hard_civilian,Cessna Citation X,C13,civilian,civilian,0.69,civilian,civilian.,0.72
+C14.jpg,civilian,hard_civilian,DHC-6 Twin Otter,C14,civilian,civilian,0.7,civilian,civilian.,0.71
+C15.jpg,civilian,hard_civilian,Lockheed L-100 Hercules,C15,military,military,0.7,civilian,civilian.,0.7
+M01.jpg,military,basic_military,F-35 Lightning II,M01,military,military,0.71,civilian,civilian,0.65
+M02.jpg,military,basic_military,F-22 Raptor,M02,military,military,0.65,civilian,civilian.,0.67
+M03.jpg,military,basic_military,F-16 Fighting Falcon,M03,military,military,0.71,civilian,civilian.,0.7
+M04.jpg,military,basic_military,B-2 Spirit,M04,military,military,0.69,military,military.,0.69
+M05.jpg,military,basic_military,B-52 Stratofortress,M05,military,military,0.68,military,military.,0.69
+M06.jpg,military,medium_military,Su-27,M06,military,military,0.71,military,military,0.64
+M07.jpg,military,medium_military,MiG-29,M07,military,military,0.69,military,military,0.66
+M08.jpg,military,medium_military,Eurofighter Typhoon,M08,military,military,0.71,military,military,0.96
+M09.jpg,military,medium_military,A-10 Thunderbolt II,M09,military,military,0.69,military,military,2.22
+M10.jpg,military,medium_military,F/A-18 Super Hornet,M10,military,military,0.75,civilian,civilian.,0.89
+M11.jpg,military,hard_military,C-130 Hercules,M11,military,military,0.71,military,military.,0.71
+M12.jpg,military,hard_military,C-17 Globemaster III,M12,military,military,0.7,military,military.,0.7
+M13.jpg,military,hard_military,A400M Atlas,M13,military,military,0.72,military,military,0.66
+M14.jpg,military,hard_military,P-8 Poseidon,M14,military,military,0.72,civilian,civilian.,0.69
+M15.jpg,military,hard_military,KC-46 Pegasus,M15,military,military,0.7,civilian,civilian.,0.71
